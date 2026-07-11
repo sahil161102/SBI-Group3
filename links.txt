@@ -1,0 +1,13 @@
+Simon implementation on Katsimpokis data: https://bayesflow-org.github.io/bayesflow-workshop-quant-psych/exercises/bayesflow-diffusion-covar.html#:~:text=Racing%20diffusion%20model)-,Application%20to%20data,-Edit%20this%20page
+
+Bayesian Cognitive Modeling: A Practical Course: https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/0/180/files/2011/03/BB_Free.pdf
+
+Simon implementation Bayesian Cognitive Modeling: https://kucharssim.github.io/bayesflow-cognitive-modeling-book/bayesian-cognitive-modeling/02-parameter-estimation/05-examples/05-censored-data.html
+
+BayesFlow installation: https://github.com/bayesflow-org/bayesflow/blob/main/README.md
+
+Research Article code & data: https://osf.io/r7dzv/files/osfstorage
+
+Research Article: https://link.springer.com/article/10.1007/s42113-020-00074-y#Tab4
+
+Diffusion Decision Model details: https://link.springer.com/chapter/10.1007/978-3-031-45271-0_4
