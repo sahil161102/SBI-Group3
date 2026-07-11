@@ -2,7 +2,7 @@
 
 Amortized Bayesian inference for Diffusion Decision Models (DDM) with time-varying decision boundaries, implemented using [BayesFlow](https://github.com/stefanradev93/BayesFlow).
 
-Read more about this project [here.](https://anirudhparameswaran.github.io/portfolio/bayesflow.html).
+
 
 ## About
 
